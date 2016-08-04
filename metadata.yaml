@@ -1,0 +1,33 @@
+_repo: Poems_1034
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Owen, Wilfred
+    birthdate: 1893
+    deathdate: 1918
+    gutenberg_agent_id: '517'
+    url: http://www.gutenberg.org/2009/agents/517
+    wikipedia: http://en.wikipedia.org/wiki/Wilfred_Owen
+description: ''
+gutenberg_issued: '1997-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1034'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Poetry'
+- !lcsh 'War poetry'
+- !lcc 'PR'
+- !lcsh 'English poetry -- 20th century'
+- GITenberg
+tableOfContents: Preface -- Strange meeting -- Greater love -- Apologia pro Poemate
+  Meo -- The show -- Mental cases -- Parable of the old men and the young -- Arms
+  and the boy -- Anthem for doomed youth -- The send-off -- Insensibility -- Dulce
+  et decorum est -- The sentry -- The dead-beat -- Exposure -- Spring offensive --
+  The chances -- S.I.W. -- Futility -- Smile, smile, smile -- Conscious -- A terre
+  -- Wild with all regrets -- Disabled -- The end.
+title: Poems
+url: http://www.gutenberg.org/ebooks/1034
